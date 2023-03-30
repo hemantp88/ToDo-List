@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive sans-serif;
+}
+body{
+    height: 100vh;
+    background-image: url("https://images.wallpaperscraft.com/image/single/coffee_book_glasses_140830_3840x2160.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden; /* dont get any scroll bar */
+
+}
+/* as id so ue # */
+#main-header{
+    border-radius: 5px;
+
+}
+#header-title{
+     font-size: 3rem;
+     
+}
